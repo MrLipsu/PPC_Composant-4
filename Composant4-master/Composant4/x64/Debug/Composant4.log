@@ -1,0 +1,5 @@
+﻿  Hacheur.cpp
+d:\dauphine\programmation par composants\exercice block chain\composant4-master\composant4-master\composant4\hacheur.cpp(14): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+     Creating library D:\Dauphine\Programmation par Composants\Exercice Block chain\Composant4-master\Composant4-master\x64\Debug\Composant4.lib and object D:\Dauphine\Programmation par Composants\Exercice Block chain\Composant4-master\Composant4-master\x64\Debug\Composant4.exp
+  Composant4.vcxproj -> D:\Dauphine\Programmation par Composants\Exercice Block chain\Composant4-master\Composant4-master\x64\Debug\Composant4.dll
+  Composant4.vcxproj -> D:\Dauphine\Programmation par Composants\Exercice Block chain\Composant4-master\Composant4-master\x64\Debug\Composant4.pdb (Full PDB)
