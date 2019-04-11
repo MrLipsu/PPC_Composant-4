@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  main.cpp
+  composant6.cpp
+  composant2.cpp
+  composant1.cpp
+  Generating Code...
+d:\dauphine\programmation par composants\tp noté\ppc_composant-4\composant2\composant2\composant2\composant6.cpp(22): warning C4172: returning address of local variable or temporary: fin
+  composant2.vcxproj -> D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\composant2.exe
+  composant2.vcxproj -> D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\composant2.pdb (Full PDB)

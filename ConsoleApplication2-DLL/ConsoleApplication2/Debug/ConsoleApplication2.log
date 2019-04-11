@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Mineur.cpp
+  DummyBloc.cpp
+  ConsoleApplication2.cpp
+  Generating Code...
+  dllmain.cpp
+     Creating library D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\Composant3Dll.lib and object D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\Composant3Dll.exp
+  ConsoleApplication2.vcxproj -> D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\Composant3Dll.dll
+  ConsoleApplication2.vcxproj -> D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\Composant3Dll.pdb (Full PDB)

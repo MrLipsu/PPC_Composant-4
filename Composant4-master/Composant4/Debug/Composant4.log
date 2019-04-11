@@ -1,5 +1,6 @@
-﻿  Source.cpp
-  Hacheur.cpp
-  Generating Code...
-  Composant4.vcxproj -> C:\Users\mkharraz\Desktop\dev\Composant4\Debug\Composant4.exe
-  Composant4.vcxproj -> C:\Users\mkharraz\Desktop\dev\Composant4\Debug\Composant4.pdb (Full PDB)
+﻿  Hacheur.cpp
+d:\dauphine\programmation par composants\tp noté\ppc_composant-4\composant4-master\composant4\hacheur.h(7): warning C4005: 'COMPOSANT4_EXPORT_INTERFACE': macro redefinition
+  d:\dauphine\programmation par composants\tp noté\ppc_composant-4\composant4-master\composant4\hacheur.h(7): note: command-line arguments:  see previous definition of 'COMPOSANT4_EXPORT_INTERFACE'
+     Creating library D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\Composant4.lib and object D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\Composant4.exp
+  Composant4.vcxproj -> D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\Composant4.dll
+  Composant4.vcxproj -> D:\Dauphine\Programmation par Composants\TP noté\PPC_Composant-4\BlockChain_Aggregation\Debug\Composant4.pdb (Full PDB)
